@@ -1,4 +1,4 @@
-# mgi2ill
+# mgi2illumina
 ### Convert MGI FASTQ files to Illumina FASTQ files
 
 ### How to install:
